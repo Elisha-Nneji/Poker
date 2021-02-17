@@ -1,1 +1,1 @@
-# Stuff Hab bei einer Runde Poker mit eine paar Freunden darüber nachgedacht wie ein Computer herausfinden würde was für eine Hand man mit den Karten machen kann (z.B. Full House, Two Pair, ...) Hab dann einfach mal mit Java ein bisschen was ausprobiert.
+# Stuff Hab bei einer Runde Poker mit eine paar Freunden darüber nachgedacht wie ein Computer herausfinden würde was für eine Hand man mit den Karten kombinieren kann (z.B. Full House, Two Pair, ...) Hab dann einfach mal mit Java ein bisschen was ausprobiert.
